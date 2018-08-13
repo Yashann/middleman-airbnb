@@ -1,0 +1,9 @@
+.team-avatars {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 170px);
+  .team-avatar img {
+    width: 150px;
+  }
+}
