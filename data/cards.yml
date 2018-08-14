@@ -1,0 +1,7 @@
+- name: 'Casablanca'
+  city_picture: 'https://www.leconomiste.com/sites/default/files/eco7/public/marina-casablanca-047.jpg'
+- name: 'Rio'
+  city_picture: 'http://1.bp.blogspot.com/-uZERSCvUNQM/VZvQv0r6RMI/AAAAAAAAAYs/p9vPNOsi5YU/s640/Rio.jpg'
+- name: 'Berlin'
+  city_picture: 'https://visionapartments.com/paguroidea/dimages/6598/0/0/berlin.jpg'
+
